@@ -15,3 +15,6 @@ USE lojacrud;
 
 
 ![image](https://github.com/user-attachments/assets/4c1ad371-4a4d-44af-a7fb-bc0d3008647d)
+
+
+![image](https://github.com/user-attachments/assets/71bba579-da0d-49cd-a7fd-d9e068ef5281)
