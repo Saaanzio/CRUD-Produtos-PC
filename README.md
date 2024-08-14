@@ -6,10 +6,10 @@
 ![image](https://github.com/user-attachments/assets/882147f8-8019-426a-8f17-d9ec2d6339cc)
 
 2 - Após isso, crie o banco de dados lojacrud, ou alterar e criar com o nome desejado em uma aplicação como MySQL Workbench.
+```sql
+CREATE SCHEMA lojacrud;
 
-create schema lojacrud;
-
-use lojacrud;
-
+USE lojacrud;
+```
 
 ![image](https://github.com/user-attachments/assets/4c1ad371-4a4d-44af-a7fb-bc0d3008647d)
