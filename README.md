@@ -8,6 +8,7 @@ Para a inicialização, basta inserir o usuário e senha do banco de dados em ap
 E criar o banco de dados lojacrud, ou alterar e criar com o nome desejado.
 
 create schema lojacrud;
+
 use lojacrud;
 
 
