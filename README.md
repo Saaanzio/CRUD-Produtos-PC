@@ -1,5 +1,4 @@
 # CRUD que permite o gerenciamento de produtos para PC, que utiliza as seguintes ferramentas: Java, Spring Boot, Spring Data JPA e Hibernate, MySQL, Thymeleaf, HTML e Bootstrap.
-![image](https://github.com/user-attachments/assets/28192f65-f397-4949-99dc-361fa68532a4)
 
 # Instruções para Execução.
 1 - Inserir o usuário e senha do banco de dados em application.properties
@@ -11,5 +10,8 @@ CREATE SCHEMA lojacrud;
 
 USE lojacrud;
 ```
+
+![image](https://github.com/user-attachments/assets/5311283c-e9bf-49db-8b29-55ab957884c7)
+
 
 ![image](https://github.com/user-attachments/assets/4c1ad371-4a4d-44af-a7fb-bc0d3008647d)
