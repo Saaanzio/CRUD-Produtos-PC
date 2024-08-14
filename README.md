@@ -5,7 +5,7 @@
 Para a inicialização, basta inserir o usuário e senha do banco de dados em application.properties
 ![image](https://github.com/user-attachments/assets/882147f8-8019-426a-8f17-d9ec2d6339cc)
 
-E criar o banco de dados lojacrud, ou alterar e criar com o nome desejado.
+Após isso, crie o banco de dados lojacrud, ou alterar e criar com o nome desejado em uma aplicação como MySQL Workbench.
 
 create schema lojacrud;
 
