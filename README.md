@@ -2,7 +2,8 @@
 
 # Instruções para Execução.
 1 - Inserir o usuário e senha do banco de dados em application.properties
-![image](https://github.com/user-attachments/assets/882147f8-8019-426a-8f17-d9ec2d6339cc)
+![image](https://github.com/user-attachments/assets/e1e6905f-b990-441a-a324-099fc4722a03)
+
 
 2 - Após isso, crie o banco de dados lojacrud, ou alterar e criar com o nome desejado em uma aplicação como MySQL Workbench.
 ```sql
